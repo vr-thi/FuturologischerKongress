@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 579f9af6235c3594f8fa501d5e05bb46
+timeCreated: 1527605402
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: CollisionShape
+    100002: //RootNode
+    100004: Saber
+    100006: ShaftBlack
+    100008: ShaftBlack_MeshPart0
+    100010: ShaftBlack_MeshPart1
+    100012: ShaftBlack_MeshPart10
+    100014: ShaftBlack_MeshPart11
+    100016: ShaftBlack_MeshPart12
+    100018: ShaftBlack_MeshPart13
+    100020: ShaftBlack_MeshPart14
+    100022: ShaftBlack_MeshPart15
+    100024: ShaftBlack_MeshPart2
+    100026: ShaftBlack_MeshPart3
+    100028: ShaftBlack_MeshPart4
+    100030: ShaftBlack_MeshPart5
+    100032: ShaftBlack_MeshPart6
+    100034: ShaftBlack_MeshPart7
+    100036: ShaftBlack_MeshPart8
+    100038: ShaftBlack_MeshPart9
+    100040: ShaftGold
+    100042: ShaftGold_MeshPart0
+    100044: ShaftGold_MeshPart1
+    100046: ShaftGold_MeshPart2
+    400000: CollisionShape
+    400002: //RootNode
+    400004: Saber
+    400006: ShaftBlack
+    400008: ShaftBlack_MeshPart0
+    400010: ShaftBlack_MeshPart1
+    400012: ShaftBlack_MeshPart10
+    400014: ShaftBlack_MeshPart11
+    400016: ShaftBlack_MeshPart12
+    400018: ShaftBlack_MeshPart13
+    400020: ShaftBlack_MeshPart14
+    400022: ShaftBlack_MeshPart15
+    400024: ShaftBlack_MeshPart2
+    400026: ShaftBlack_MeshPart3
+    400028: ShaftBlack_MeshPart4
+    400030: ShaftBlack_MeshPart5
+    400032: ShaftBlack_MeshPart6
+    400034: ShaftBlack_MeshPart7
+    400036: ShaftBlack_MeshPart8
+    400038: ShaftBlack_MeshPart9
+    400040: ShaftGold
+    400042: ShaftGold_MeshPart0
+    400044: ShaftGold_MeshPart1
+    400046: ShaftGold_MeshPart2
+    2300000: CollisionShape
+    2300002: Saber
+    2300004: ShaftBlack_MeshPart0
+    2300006: ShaftBlack_MeshPart1
+    2300008: ShaftBlack_MeshPart10
+    2300010: ShaftBlack_MeshPart11
+    2300012: ShaftBlack_MeshPart12
+    2300014: ShaftBlack_MeshPart13
+    2300016: ShaftBlack_MeshPart14
+    2300018: ShaftBlack_MeshPart15
+    2300020: ShaftBlack_MeshPart2
+    2300022: ShaftBlack_MeshPart3
+    2300024: ShaftBlack_MeshPart4
+    2300026: ShaftBlack_MeshPart5
+    2300028: ShaftBlack_MeshPart6
+    2300030: ShaftBlack_MeshPart7
+    2300032: ShaftBlack_MeshPart8
+    2300034: ShaftBlack_MeshPart9
+    2300036: ShaftGold_MeshPart0
+    2300038: ShaftGold_MeshPart1
+    2300040: ShaftGold_MeshPart2
+    3300000: CollisionShape
+    3300002: Saber
+    3300004: ShaftBlack_MeshPart0
+    3300006: ShaftBlack_MeshPart1
+    3300008: ShaftBlack_MeshPart10
+    3300010: ShaftBlack_MeshPart11
+    3300012: ShaftBlack_MeshPart12
+    3300014: ShaftBlack_MeshPart13
+    3300016: ShaftBlack_MeshPart14
+    3300018: ShaftBlack_MeshPart15
+    3300020: ShaftBlack_MeshPart2
+    3300022: ShaftBlack_MeshPart3
+    3300024: ShaftBlack_MeshPart4
+    3300026: ShaftBlack_MeshPart5
+    3300028: ShaftBlack_MeshPart6
+    3300030: ShaftBlack_MeshPart7
+    3300032: ShaftBlack_MeshPart8
+    3300034: ShaftBlack_MeshPart9
+    3300036: ShaftGold_MeshPart0
+    3300038: ShaftGold_MeshPart1
+    3300040: ShaftGold_MeshPart2
+    4300000: ShaftGold_MeshPart0
+    4300002: ShaftGold_MeshPart1
+    4300004: ShaftGold_MeshPart2
+    4300006: ShaftBlack_MeshPart0
+    4300008: ShaftBlack_MeshPart1
+    4300010: ShaftBlack_MeshPart2
+    4300012: ShaftBlack_MeshPart3
+    4300014: ShaftBlack_MeshPart4
+    4300016: ShaftBlack_MeshPart5
+    4300018: ShaftBlack_MeshPart6
+    4300020: ShaftBlack_MeshPart7
+    4300022: ShaftBlack_MeshPart8
+    4300024: ShaftBlack_MeshPart9
+    4300026: ShaftBlack_MeshPart10
+    4300028: ShaftBlack_MeshPart11
+    4300030: ShaftBlack_MeshPart12
+    4300032: ShaftBlack_MeshPart13
+    4300034: ShaftBlack_MeshPart14
+    4300036: ShaftBlack_MeshPart15
+    4300038: CollisionShape
+    4300040: Saber
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
