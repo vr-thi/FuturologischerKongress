@@ -1,4 +1,2 @@
-# FuturologischerKongress
-Projekt für Futurologischen Kongress
+# FuturologischerKongress -- bitte nicht mehr nutzen -- wird gelöscht
 
-Im Unterverzeichnis unity sollte sich das Unity-Projekt finden.
